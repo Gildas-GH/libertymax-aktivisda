@@ -1,0 +1,16 @@
+{
+    "name": "Liberty Max - Aktivisda",
+    "id": "liberty-max",
+    "description": "Create your visuals for Liberty Max. in a few minutes!",
+    "availableLangs": ["fr", "en"],
+    "matomo": {
+        "enabled": false,
+        "host": "https://stats.aktivisda.earth/matomo",
+        "siteId": 11
+    },
+    "email": "liberty-max.@aktivisda.earth",
+    "url": "https://liberty-max..aktivisda.earth/",
+    "about": {
+        "fr": "About Liberty Max.(<b>HTML allowed</b>)."
+    }
+}
